@@ -31,11 +31,11 @@
 
 4. Arama kısmına @BotFather yazıp aratınız. 
 
-![telegram2](img/telegram2.png)
+![telegram2](img/telegram2.PNG)
 
 5. Üzerine tıklayarak 'chat' ekranını açınız ve 'start' tuşuna tıklayınız. 
 
-![telegram3](img/telegram3.png)
+![telegram3](img/telegram3.PNG)
 
 6. 'Start' tuşuna bastığınızda ekranınızda aşağıdaki ekran belirecektir. Aşağıda işaretli olan '/newbot' linkine tıklayınız. 
 
@@ -43,7 +43,7 @@
 
 7. '/Newbot' linkine tıkladığınızda, uygulama sizden bir 'bot' ismi üretmenizi isteyecektir. (örnek: OmnicoTestBot)
 
-![telegram5](img/telegram5.png)
+![telegram5](img/telegram5.PNG)
 
 8. Seçtiğiniz isimi klavyeye girip gönderdikten sonra, uygulama size bot ismi ve Token sunacaktır:
 
