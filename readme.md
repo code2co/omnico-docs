@@ -4,7 +4,7 @@ Merhaba! OmniCo'ya hoşgeldiniz. Bu dökümanlar yazılımı nasıl kullanacağ�
 
 Bu döküman dört bölüme ayrılmıştır.
 
-- [Kayıt Olmak ve Şirket Oluşturmak](register.md)
+- [Kayıt Olmak ve Şirket Oluşturmak](registrations.md)
 - [Destek Ekiplerini davet etmek](invitations.md)
 - [Telegram ve Facebook platformlarını eklemek](providers.md)
 - [Kullanıcılarınızla sohbet etmek](chats.md)
