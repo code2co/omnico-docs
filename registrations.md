@@ -29,3 +29,5 @@
 2. Bu sayfadaki boş alanlara önce bilgilerinizi giriniz, isteğinize bağlı olarak, aşağıdaki link'e basarak, kuruluşunuzun logosunu yükleyiniz. 
 
 ![omnico6](img/omnico6.png)
+
+3. Gerekli bilgileri girdikten sonra 'Create' butonuna basarak kuruluşunuzun hesabını oluşturunuz. 
