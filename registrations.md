@@ -19,3 +19,8 @@
 ![omnico4](img/omnico4.png)
 
 6. Tebrikler, artık bir Omnico kullanıcısısınız :) Aramıza hoşgeldiniz!
+
+## Kuruluş Oluşturmak 
+
+1. Sisteme 'Log In' olduktan sonra, aşağıdaki ekrana yönlendirileceksiniz.
+
