@@ -27,3 +27,39 @@
 2. Uygulamaya giriş yapınız.
 3. Uygulamanın 'Chat' sekmesini seçiniz
 
+![telegram1](img/telegram1.jpg)
+
+4. Arama kısmına @BotFather yazıp aratınız. 
+
+![telegram2](img/telegram2.png)
+
+5. Üzerine tıklayarak 'chat' ekranını açınız ve 'start' tuşuna tıklayınız. 
+
+![telegram3](img/telegram3.png)
+
+6. 'Start' tuşuna bastığınızda ekranınızda aşağıdaki ekran belirecektir. Aşağıda işaretli olan '/newbot' linkine tıklayınız. 
+
+![telegram4](img/telegram4.png)
+
+7. '/Newbot' linkine tıkladığınızda, uygulama sizden bir 'bot' ismi üretmenizi isteyecektir. (örnek: OmnicoTestBot)
+
+![telegram5](img/telegram5.png)
+
+8. Seçtiğiniz isimi klavyeye girip gönderdikten sonra, uygulama size bot ismi ve Token sunacaktır:
+
+![telegram8](img/telegram8.png)
+
+9. Bot oluşturup, Token aldıktan sonra, Omnico ekranınızdaki Telegram 'Connect' butonuna basınız.
+
+![providers1](img/providers1.png)
+
+10. Burada istenilen alanlara, daha önce üretmiş olduğunuz bot ismini ve Token linkini giriniz. 
+
+![telegram10](img/telegram10.png)
+
+11. Tebrikler! Telegram entegrasyonunuz başarıyla kurulmuştur.
+
+![telegram11](img/telegram11.png)
+
+
+
