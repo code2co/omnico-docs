@@ -80,3 +80,33 @@ Her bir ticket birden fazla aktivite barındırabilir ve her aktivitenin kendi s
 7. Tags (Tag'ler, bir 'ticket'ı daha kolay takip edebilmek amaçlı belirlenen anahtar kelimelerdir) 
 
 ![agentscreen4](img/agentscreen4.png)
+
+## Omnico Ticket Journey
+
+Sisteme düşen bir ticket, sırasıyla aşağıdaki inbox’lara düşerek ve adımları izleyerek ‘resolved’ veya ‘postponed’ statüsüne sahip olacaktır:
+
+1.	My Inbox
+2.	In Progress
+3.	Closed
+
+**My Inbox**
+
+Gelen mesajlar, o an için uygun bulunan bir müşteri temsilcisine otomatik olarak atanır ve o Agent’ın “My Inbox” tabına düşer.  Bu bildiriyi kendine atadığı noktada, bu mesaj o ‘agent’ın ‘My Inbox’ tab’ine düşecektir. 
+
+_Not: Agent’lar, bu tab açıkken gelen mesajlara yanıt yazabilecektir. Agent istediği süre kadar gelen bildiriyi bu ‘inbox’da tutabilecek, gerekli gördüğü noktada manuel şekilde ‘in progress’ inbox’una taşıyabilecektir.
+In Progress_
+
+**In Progress**
+
+Agent’lar, düşen bildiri/mesajı ‘My Inbox’dan, ‘In Progress’ inbox’una istediği zaman manuel olarak taşıyabilecektir. Bu inbox’u, ‘My Inbox’dan ayıran özellik, ‘In Progress’de üzerinde çalışılmakta olan gönderilerin bulunmasıdır.
+
+**Closed**
+
+Agent, bir ticket ile olan işlemi sonlandırdığında, bu ticket’I ‘Closed’ inbox’una manuel şekilde taşıyabilecektir. 
+
+Sisteme düşen mesaj/bildiri, sırasıyla yukarıdaki adımları izledikten sonra, ‘resolved’ veya ‘postponed’ tag’leri ile tag’lenir.  Bu ticket eğer;
+
+**‘Resolved’** ise, otomatik olarak sistemin veri tabanına aktarılır. 
+**‘Postponed'** ise, ya başka bir departman/müşteri temsilcisine aktarılır ya da veri tabanına aktarılır ve daha sonra tekrardan açılır. 
+
+![agentscreen5](img/agentscreen5.png)
