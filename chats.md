@@ -36,41 +36,47 @@ Dolayısıyla, aşağıda işaretli gördüğünüz alan hem ticket'lar hem de m
 
 Her kutucuğun özellikleri ve işlevi aşağıdaki gibidir:
 
-●	Müşteri Bilgileri 
+●	Customer Details (Müşteri Bilgileri)
 
-, platforma, müşteriden bir ‘talep/bildiri/istek’düştüğü anda, hangi kanaldan düşerse düşsün, o mesaj, otomatik olarak bir ‘Ticket’a dönüştürülür. 
+Eğer CRM, e-ticaret veya Ticket Management entegrasyonlarınızı Omnico ile entegre etmişseniz, aşağıdaki bilgiler, sırasıyla 'Müşteri Temsilcisi Ekranı'nızın sağ üst tarafında belirecektir. Eğer bu entegrasyonlr gerçekleştirilmediyse, Omnico database'inde tutulan bilgiler sayesinde aşağıdaki bilgiler belirecektir;
 
+1. Cinsiyet
+2. Yaş
+3. Beden
+4. Vb. 
+5. Shopping Cart (e-ticaret veya CRM entegrasyonu gereklidir)
 
-Müşteri temsilcisi, inbox’da olan herhangi bir bildirinin üzerine bastığında, ekranın sağ köşesinde bulunan yan ekranda, o bildiriye ait aşağıdaki veriler ve özellikler belirecektir:
+●	Ticket Properties (Ticket Özellikleri)
 
-●	Customer Details
-o	Gender
-o	Age
-o	Size
-o	Location (eğer müşteri paylaşırsa)
-o	Vb.
-o	Not: Eğer kurum herhangi bir yazılım programı ile entegrasyon kurmuşsa (CRM, e-commerce, Ticket Management, vb.), buradan düşen bilgiler de ‘Customer Details’ altında görüntülenecektir
-●	Latest Shopping Cart
-o	Müşterinin en güncel alışveriş sepeti (e-commerce integration)
-o	Not: Eğer kullanıcı diğer yazılım programları ile entegrasyon kurmuş ise (örnek: Woo Commerce), bu tab’de ‘Shopping Cart History’ de belirecektir.
-●	Ticket Properties
-o	Priority 
-▪	Low / Medium / High / Urgent
-o	Status
-▪	Open / pending / resolved / closed / waiting on customer / waiting on third party
-o	Source 
-▪	Facebook Messenger / Telegram / Whatsapp / etc.
-o	Group / Department
-o	Agent Name
-o	Activity Based Actions (Call Reason, Category, Sub Category) 
-▪	Question
-▪	Incident 
-▪	Problem
-▪	Feature Request
+Müşteri temsilcisi bir 'ticket' görüntülediğinde, aşağıdaki seçenekleri manuel olarak seçmelidir:
+
+1. Priority (bir bildirinin önem seviyesi)
+
+Low / Medium / High / Urgent (düşük / orta / yüksek / acil)
+
+2. Status (bildiri statüsü)
+
+Open / pending / resolved / closed / waiting on customer / waiting on third party (açıldı / beklemede / çözüldü / kapandı / müşteri tarafından bekleniyor)
+
+3. Source (bildirinin kaynağı)
+
+Facebook Messenger / Telegram / Whatsapp / etc.
+
+4. Group / Department (Departmanlar, Admin tarafından belirlenip düzenlenecektir. Örnek departman: teknik servis)
+
+5. Agent Name (Müşteri temsilcisi ismi)
+
+6. Activity Based Actions; Call Reason, Category, Sub Category (Bildirinin geliş sebebi)
+
+Question (soru sormak amaçlı)
+Incident (bir sorunu çözmek amaçlı)
+Problem (problem bildirmek amaçlı)
+Feature Request 
 ▪	….
-Açıklama:
 
+**Açıklama**:
 Her bir ticket birden fazla aktivite barındırabilir ve her aktivitenin kendi statüsü ve kategorisi olabilir. Her bir aktivite, kendi call time/statüsü/vb. parametreleri ile takip edilebilir. Bir ticket’ın ‘solved’ olabilmesi için, ticket içinde bulunan ‘activity based action’larının hepsinin ‘done’ olmuş olması gerekmektedir. 
 
-o	Tags
+7. Tags (Tag'ler, bir 'ticket'ı daha kolay takip edebilmek amaçlı belirlenen anahtar kelimelerdir) 
 
+![agentscreen4](img/agentscreen4.png)
