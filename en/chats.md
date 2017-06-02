@@ -18,11 +18,11 @@ In your universal inbox, for each notifications, you will be monitoring the data
 ●	The logo of the Channel 
 ●	The received time
 
-![agentscreen2](../img/agentscreen2.png)
+ ![agentscreen3](../img/agentscreen3.png)
 
 2. The marked area below is your 'chat box'. In this box, every agent will be monitoring and answering the notifications. 
 
-![agentscreen3](../img/agentscreen3.png)
+![agentscreen2](../img/agentscreen2.png)
 
 3. The area on the right, is for 'Ticket Properties' & 'Customers Details'. 
 
