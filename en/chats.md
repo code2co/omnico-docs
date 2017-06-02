@@ -103,6 +103,7 @@ When an agent is done with a ticket, he/she will manually carry the ticket to th
 Furthermore, after a ticket goes through the journey above, the ticket has to be tagged either as 'resolved' or 'postponed'. Sisteme düşen mesaj/bildiri, sırasıyla yukarıdaki adımları izledikten sonra, ‘resolved’ veya ‘postponed’ tag’leri ile tag’lenir.  If this ticket is;
 
 **‘Resolved’** - automatically, the ticket is being transferred to Omnico's database.
+
 **‘Postponed'** - the ticket is being transferred to another agent or to the database for future actions.
 
 
