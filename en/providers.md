@@ -52,7 +52,7 @@
 
 ![providers1](../img/providers1.png)
 
-10. When you press 'Connect', a page will appear. On this page, enter the 'bot name' and 'Token' that you have just created in the Telegram application.
+10. When you press 'Connect', the page below will appear. On this page, enter the 'bot name' and 'Token' that you have just created in the Telegram application.
 
 ![telegram10](../img/telegram10.png)
 
