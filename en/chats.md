@@ -37,6 +37,7 @@ Every request and notification sent to your support channels becomes a ticket in
 **Ticket Properties & Customer Details**
 
 ●	Customer Details 
+
 If you have aldready integrated your CRM & E-Commerce accounts with your Omnico account, then the data below will appear on your agent screen's right side. If not, you will be monitoring the data that have been colleted by Omnico throughout the time. 
 
 1. Gender
@@ -85,6 +86,8 @@ Each ticket will follow the the steps below in order to be 'resolved' or 'postpo
 2.	In Progress
 3.	Closed
 
+![agentscreen5](../img/agentscreen5.png)
+
 **My Inbox**
 
 Each ticket is directed to an available agent automatically by the system. When a ticket is directed to an agent, the ticket appears in that agent's 'My Inbox'.  
@@ -102,4 +105,4 @@ Furthermore, after a ticket goes through the journey above, the ticket has to be
 **‘Resolved’** - automatically, the ticket is being transferred to Omnico's database.
 **‘Postponed'** - the ticket is being transferred to another agent or to the database for future actions.
 
-![agentscreen5](../img/agentscreen5.png)
+
