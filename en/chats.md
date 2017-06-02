@@ -71,16 +71,16 @@ Problem
 Feature Request 
 ▪	….
 
-**Açıklama**:
-Her bir ticket birden fazla aktivite barındırabilir ve her aktivitenin kendi statüsü ve kategorisi olabilir. Her bir aktivite, kendi call time/statüsü/vb. parametreleri ile takip edilebilir. Bir ticket’ın ‘solved’ olabilmesi için, ticket içinde bulunan ‘activity based action’larının hepsinin ‘done’ olmuş olması gerekmektedir. 
+**Explanation**:
+Every ticket can have more than one activity and each activity can have a different status and category. Each activity can be monitored via call time/status/etc. For a ticket to be completely 'solved', each 'activity based action' within a ticket must be in 'done' status. 
 
-7. Tags (Tag'ler, bir 'ticket'ı daha kolay takip edebilmek amaçlı belirlenen anahtar kelimelerdir) 
+7. Tags (Tags are helpful for tracking tickets via predefined keywords)
 
 ![agentscreen4](../img/agentscreen4.png)
 
 ## Omnico Ticket Journey
 
-Sisteme düşen bir ticket, sırasıyla aşağıdaki inbox’lara düşerek ve adımları izleyerek ‘resolved’ veya ‘postponed’ statüsüne sahip olacaktır:
+Each ticket will follow the the steps below in order to be 'resolved' or 'postponed'.
 
 1.	My Inbox
 2.	In Progress
@@ -88,22 +88,19 @@ Sisteme düşen bir ticket, sırasıyla aşağıdaki inbox’lara düşerek ve a
 
 **My Inbox**
 
-Gelen mesajlar, o an için uygun bulunan bir müşteri temsilcisine otomatik olarak atanır ve o Agent’ın “My Inbox” tabına düşer.  Bu bildiriyi kendine atadığı noktada, bu mesaj o ‘agent’ın ‘My Inbox’ tab’ine düşecektir. 
-
-_Not: Agent’lar, bu tab açıkken gelen mesajlara yanıt yazabilecektir. Agent istediği süre kadar gelen bildiriyi bu ‘inbox’da tutabilecek, gerekli gördüğü noktada manuel şekilde ‘in progress’ inbox’una taşıyabilecektir.
-In Progress_
+Each ticket is directed to an available agent automatically by the system. When a ticket is directed to an agent, the ticket appears in that agent's 'My Inbox'.  
 
 **In Progress**
 
-Agent’lar, düşen bildiri/mesajı ‘My Inbox’dan, ‘In Progress’ inbox’una istediği zaman manuel olarak taşıyabilecektir. Bu inbox’u, ‘My Inbox’dan ayıran özellik, ‘In Progress’de üzerinde çalışılmakta olan gönderilerin bulunmasıdır.
+Agents will be able to manually carry a ticket from 'My Inbox' to 'In Progress' inbox. The difference between the two is that the tikets under 'In Progress' inbox are the ones that are being answered and that are ongoing.
 
 **Closed**
 
-Agent, bir ticket ile olan işlemi sonlandırdığında, bu ticket’I ‘Closed’ inbox’una manuel şekilde taşıyabilecektir. 
+When an agent is done with a ticket, he/she will manually carry the ticket to the 'Closed' inbox. 
 
-Sisteme düşen mesaj/bildiri, sırasıyla yukarıdaki adımları izledikten sonra, ‘resolved’ veya ‘postponed’ tag’leri ile tag’lenir.  Bu ticket eğer;
+Furthermore, after a ticket goes through the journey above, the ticket has to be tagged either as 'resolved' or 'postponed'. Sisteme düşen mesaj/bildiri, sırasıyla yukarıdaki adımları izledikten sonra, ‘resolved’ veya ‘postponed’ tag’leri ile tag’lenir.  If this ticket is;
 
-**‘Resolved’** ise, otomatik olarak sistemin veri tabanına aktarılır. 
-**‘Postponed'** ise, ya başka bir departman/müşteri temsilcisine aktarılır ya da veri tabanına aktarılır ve daha sonra tekrardan açılır. 
+**‘Resolved’** - automatically, the ticket is being transferred to Omnico's database.
+**‘Postponed'** - the ticket is being transferred to another agent or to the database for future actions.
 
 ![agentscreen5](../img/agentscreen5.png)
