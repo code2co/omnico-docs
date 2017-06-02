@@ -44,11 +44,11 @@
 
 ![telegram5](../img/telegram5.PNG)
 
-8. After you create a 'bot' name, the application will provide you a 'bot name' and a 'Token':
+8. After you create a 'bot name', the application will provide you a 'Token':
 
 ![telegram8](../img/telegram8.png)
 
-9. After this step, go to your Omnico onboarding page and click to Telegram's 'Connect' button. 
+9. After creating a 'bot name', go to your Omnico onboarding page and click to Telegram's 'Connect' button. 
 
 ![providers1](../img/providers1.png)
 
