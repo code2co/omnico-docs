@@ -1,12 +1,11 @@
-## Destek Ekiplerini davet etmek
+## Inviting Team Members
 
-1. Kanal entegrasyonlarınızı tamamladıktan sonra, bir sonraki adıma geçerek ekip arkadaşlarınızı davet edebilirsiniz. 
-2. Aşağıdaki ekrandaki 'e-mail' kutucuğunun içine ekip arkadaşınızın mail adresini girip 'invite' butonuna basınız. 
-
+1. When you are done with integrations, move on to inviting your team members. 
+2. In the page below, write down your team member's e-mail address and click to 'Invite'.
 ![agent1](../img/agent1.png)
 
-3. Eklediğiniz ekip arkdaşınız ekranınızın 'Invitations' bölümünde belirecektir. 
+3. All the invitations sent will be shown under the 'Invitations' area.
 
-4. Tebrikler! Omnico kurulumunu başarıyla tamamladınız. Şimdi Omnico'yu keşfedip, müşterilerinize mükemmel bir müşteri servisi deneyimi yaşatmaya başlayabilirsiniz!
+4. Congratulations! You have successfully signed up to Omnico! Now you can start discovering Omnico's world and start improving your customer experience management.
 
 ![agent3](../img/agent3.png)
