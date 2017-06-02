@@ -26,6 +26,8 @@ In your universal inbox, for each notifications, you will be monitoring the data
 
 3. The area on the right, is for 'Ticket Properties' & 'Customers Details'. 
 
+![agentscreen4](../img/agentscreen4.png)
+
 **As Omnico, we call notifications 'Tickets'.** 
 
 **What is a Ticket?**
@@ -34,8 +36,7 @@ Every request and notification sent to your support channels becomes a ticket in
 
 **Ticket Properties & Customer Details**
 
-●	Customer Details (Müşteri Bilgileri)
-
+●	Customer Details 
 If you have aldready integrated your CRM & E-Commerce accounts with your Omnico account, then the data below will appear on your agent screen's right side. If not, you will be monitoring the data that have been colleted by Omnico throughout the time. 
 
 1. Gender
@@ -75,8 +76,6 @@ Feature Request
 Every ticket can have more than one activity and each activity can have a different status and category. Each activity can be monitored via call time/status/etc. For a ticket to be completely 'solved', each 'activity based action' within a ticket must be in 'done' status. 
 
 7. Tags (Tags are helpful for tracking tickets via predefined keywords)
-
-![agentscreen4](../img/agentscreen4.png)
 
 ## Omnico Ticket Journey
 
