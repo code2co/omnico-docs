@@ -32,11 +32,11 @@
 
 ![telegram2](../img/telegram2.PNG)
 
-5. Open the 'Chat' and click to 'Start' 
+5. Open a chat with BotFather and click to 'Start' 
 
 ![telegram3](../img/telegram3.PNG)
 
-6. When you click to 'Start', the below chat will pop up. In this chat, click to the '/newbot' link.
+6. When you click to 'Start', the chat below will pop up. In this chat, click to the '/newbot' link.
 
 ![telegram4](../img/telegram4.png)
 
