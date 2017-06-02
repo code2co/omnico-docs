@@ -23,7 +23,7 @@
 ## Telegram Integration
 
 1. Download the Telegram Application
-2. Log in the application
+2. Log in to the application
 3. Go to the 'Chat' tab of the application.
 
 ![telegram1](../img/telegram1.jpg)
