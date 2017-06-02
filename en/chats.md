@@ -1,76 +1,73 @@
-# Kullanıcılarınızla Sohbet Etmeye Başlayın!
+# Start Communicating with Your Customers!
 
-Bütün kurulumları yaptıktan sonra, artık '**Omnico Müşteri Temsilcisi Ekranınızı**' açıp, müşterilerinizle konuşmaya başlayabilirsiniz!
+After you are done with onboarding process, you can log in to your 'Omnico Agent Screen' and start converting conversations in to conversions.
 
-## Omnico Müşteri Temsilcisi Ekranı ve Özellikleri 
+## Omnico Agent Screen Feature Set 
 
-**Aşağıda gördüğünüz ekran, sizin 'müşteri temsilcisi ekranı'nızdır.**
+**The screen below, is your 'Omnico Agent Screen'**
 
 ![agentscreen1](../img/agentscreen1.png)
 
-_Bu ekrandaki özellikler ve işlevleri sırasıyla aşağıdaki gibidir;_
+_The features and functions of the screen is as below;_
 
-1. Aşağıda sol tarafta gördüğünüz alan, sizin 'Universal Inbox'unuz. Bu özellik sayesinde, müşteri temsilcileri, farklı kanallardan gelen mesajları (Facebook, Telegram, Whatsapp, BİP, vs) tek bir yerden görüntüleyip, aksiyona geçebilecektir.
+1. The area on the left, is your 'Universal Inbox', where you will be monitoring and receiving all of your customers' notifications.
 
-Yan ekrana düşen mesajların, aşağıdaki özellikleri 'Müşteri Temsilcisi Ekranı'nda sırasıyla aşağıdaki gibi görüntülenecektir:
+In your universal inbox, for each notifications, you will be monitoring the data below:
 
-●	Müşteri İsmi
-●	Gelen kanalın logosu
-●	Bildirinin düştüğü zaman
+● Customer Name
+●	The logo of the Channel 
+●	The received time
 
 ![agentscreen2](../img/agentscreen2.png)
 
-2. Aşağıda gösterilen işaretli alan, müşteri temsilcilerinin 'chat box'udur. Müşteri temsilcileri, hem gelen mesajları bu alanda görüntüleyecek, hem de buradan geri dönüş yapacaklardır. 
+2. The marked area below is your 'chat box'. In this box, every agent will be monitoring and answering the notifications. 
 
 ![agentscreen3](../img/agentscreen3.png)
 
-3. Aşağıda sağ tarafta gördüğünüz alan, müşterilere ve gelen bildirilere ait olan alandır. 
+3. The area on the right, is for 'Ticket Properties' & 'Customers Details'. 
 
-**Biz Omnico olarak, gelen her bildiriye 'Ticket' diyoruz.** 
+**As Omnico, we call notifications 'Tickets'.** 
 
-**Ticket Nedir?**
+**What is a Ticket?**
 
-Platforma, müşteriden bir ‘talep/bildiri/istek’düştüğü anda, hangi kanaldan düşerse düşsün, o mesaj, otomatik olarak bir ‘Ticket’a dönüştürülür. 
+Every request and notification sent to your support channels becomes a ticket in your helpdesk
 
-Dolayısıyla, aşağıda işaretli gördüğünüz alan hem ticket'lar hem de müşteriler için ayrılmış bir alandır diyebiliriz. 
-
-Her kutucuğun özellikleri ve işlevi aşağıdaki gibidir:
+**Ticket Properties & Customer Details**
 
 ●	Customer Details (Müşteri Bilgileri)
 
-Eğer CRM, e-ticaret veya Ticket Management entegrasyonlarınızı Omnico ile entegre etmişseniz, aşağıdaki bilgiler, sırasıyla 'Müşteri Temsilcisi Ekranı'nızın sağ üst tarafında belirecektir. Eğer bu entegrasyonlr gerçekleştirilmediyse, Omnico database'inde tutulan bilgiler sayesinde aşağıdaki bilgiler belirecektir;
+If you have aldready integrated your CRM & E-Commerce accounts with your Omnico account, then the data below will appear on your agent screen's right side. If not, you will be monitoring the data that have been colleted by Omnico throughout the time. 
 
-1. Cinsiyet
-2. Yaş
-3. Beden
-4. Vb. 
-5. Shopping Cart (e-ticaret veya CRM entegrasyonu gereklidir)
+1. Gender
+2. Age
+3. Size
+4. Shopping Cart (if E-commerce & CRM integrations are made)
 
-●	Ticket Properties (Ticket Özellikleri)
+●	Ticket Properties 
 
-Müşteri temsilcisi bir 'ticket' görüntülediğinde, aşağıdaki seçenekleri manuel olarak seçmelidir:
+Agents will be filling in the data below manually. 
 
-1. Priority (bir bildirinin önem seviyesi)
+1. Priority 
 
-Low / Medium / High / Urgent (düşük / orta / yüksek / acil)
+Low / Medium / High / Urgent 
 
-2. Status (bildiri statüsü)
+2. Status 
 
-Open / pending / resolved / closed / waiting on customer / waiting on third party (açıldı / beklemede / çözüldü / kapandı / müşteri tarafından bekleniyor)
+Open / pending / resolved / closed / waiting on customer / waiting on third party 
 
-3. Source (bildirinin kaynağı)
+3. Source 
 
 Facebook Messenger / Telegram / Whatsapp / etc.
 
-4. Group / Department (Departmanlar, Admin tarafından belirlenip düzenlenecektir. Örnek departman: teknik servis)
+4. Group / Department 
 
-5. Agent Name (Müşteri temsilcisi ismi)
+5. Agent Name 
 
-6. Activity Based Actions; Call Reason, Category, Sub Category (Bildirinin geliş sebebi)
+6. Activity Based Actions; Call Reason, Category, Sub Category 
 
-Question (soru sormak amaçlı)
-Incident (bir sorunu çözmek amaçlı)
-Problem (problem bildirmek amaçlı)
+Question
+Incident 
+Problem 
 Feature Request 
 ▪	….
 
