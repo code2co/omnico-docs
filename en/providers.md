@@ -1,63 +1,62 @@
-# Telegram ve Facebook platformlarını eklemek
+# Integration of Telegram & Facebook Accounts
 
-1. Kuruluşunuzun kurulumunu tamamladıktan sonra, sistem sizi otomatik olarak 'Providers' etabına yönlendirecektir. 
-2. Bu sayfada, karşınıza Facebook ve Telegram platformlarını ekleyebileceksiniz. 
+1. After registration, the system will directly transfer you to the onboarding process. First, you will be integrating your Telegram & Facebook accounts with your Omnico account.
 
-## Facebook Entegrasyonu
+## Facebook Integration
 
-1. Aşağıdaki ekran karşınıza çıktığında 'Connect'in üzerine basınız. 
+1. In the page below, click to 'Connect'.
 
 ![providers1](../img/providers1.png)
 
-2. ''Facebook'a bağlan' butonuna basınız.
+2. Click to ''Connect to Facebook'
 
-3. Omnico hesabınıza entegre etmek istediğiniz Facebook Sayfanızı seçiniz.
+3. Choose the Facebook page that you want to integrate with your Omnico account. 
 
 ![providers3](../img/providers3.png)
 
-4. 'Bağlan' butonuna basınız
+4. Click to 'Connect'
 
-5. Tebrikler! Facebook Sayfanız başarıyla kurulmuştur. 
+5. Congratulations! Your Facebook Page has been successfully connected.  
 
 ![providers4](../img/providers4.png)
 
-## Telegram Entegrasyonu
+## Telegram Integration
 
-1. Telefonunuza Telegram uygulamasını yükleyiniz.
-2. Uygulamaya giriş yapınız.
-3. Uygulamanın 'Chat' sekmesini seçiniz
+1. Download the Telegram Application
+2. Log in the application
+3. Go to the 'Chat' tab of the application.
 
 ![telegram1](../img/telegram1.jpg)
 
-4. Arama kısmına @BotFather yazıp aratınız. 
+4. Write down @BotFather in the search area.  
 
 ![telegram2](../img/telegram2.PNG)
 
-5. Üzerine tıklayarak 'chat' ekranını açınız ve 'start' tuşuna tıklayınız. 
+5. Open the 'Chat' and click to 'Start' 
 
 ![telegram3](../img/telegram3.PNG)
 
-6. 'Start' tuşuna bastığınızda ekranınızda aşağıdaki ekran belirecektir. Aşağıda işaretli olan '/newbot' linkine tıklayınız. 
+6. When you click to 'Start', the below chat will pop up. In this chat, click to the '/newbot' link.
 
 ![telegram4](../img/telegram4.png)
 
-7. '/Newbot' linkine tıkladığınızda, uygulama sizden bir 'bot' ismi üretmenizi isteyecektir. (örnek: OmnicoTestBot)
+7. When you click to '/Newbot' link, the application will ask you to create a 'bot' name. (Ex: OmnicoTestBot)
 
 ![telegram5](../img/telegram5.PNG)
 
-8. Seçtiğiniz isimi klavyeye girip gönderdikten sonra, uygulama size bot ismi ve Token sunacaktır:
+8. After you create a 'bot' name, the application will provide you a 'bot name' and a 'Token':
 
 ![telegram8](../img/telegram8.png)
 
-9. Bot oluşturup, Token aldıktan sonra, Omnico ekranınızdaki Telegram 'Connect' butonuna basınız.
+9. After this step, go to your Omnico onboarding page and click to Telegram's 'Connect' button. 
 
 ![providers1](../img/providers1.png)
 
-10. Burada istenilen alanlara, daha önce üretmiş olduğunuz bot ismini ve Token linkini giriniz. 
+10. When you press 'Connect', a page will appear. On this page, enter the 'bot name' and 'Token' that you have just created in the Telegram application.
 
 ![telegram10](../img/telegram10.png)
 
-11. Tebrikler! Telegram entegrasyonunuz başarıyla kurulmuştur.
+11. Congratulations! Your Telegram account has been successfully connected.  
 
 ![telegram11](../img/telegram11.png)
 
