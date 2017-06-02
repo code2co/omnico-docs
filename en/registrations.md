@@ -1,33 +1,33 @@
-# OmniCo'ya Kayıt Olmak ve Kuruluşunuzu Tanımlamak
+# Signin up to OmniCo &  Register Your Company
 
-## Kayıt Olmak
-1. App.omnico.io sayfasına giriş yapınız.
-2. '14 Days Free Trial' butonuna basınız.
+## Signing up to Omnico
+1. First go to app.omnico.io
+2. Click to '14 Days Free Trial'
  
 ![omnico1](../img/omnico1.png)
 
-3. Aşağıdaki sayfaya bilgilerinizi giriniz ve 'Register' butonuna basınız.
+3. Enter your informtion to the area shown below and click to 'Register'
 
 ![omnico2](../img/omnico2.png)
 
-4. E-mail hesabınıza gelen mail'deki 'Confirm My Account' linkine basınız. 
+4. Click to 'Confirm My Account' which is in the mail that has been sent to you.
 
 ![omnico3](../img/omnico3.png)
 
-5. E-mail hesabınızı onayladıktan sonra aşağıdaki sayfaya yönlendirileceksiniz. Burada, bilgilerinizi kontrol edip, 'log in' olunuz. 
+5. After confirming your e-mail address, you will be directed to the page below. Here, verify your information and click 'Log in' 
 
 ![omnico4](../img/omnico4.png)
 
-6. Tebrikler, artık bir Omnico kullanıcısısınız :) Aramıza hoşgeldiniz!
+6. Congratulations! Now you are have an Omnico account :) Welcome to the family!
 
-## Kuruluş Oluşturmak 
+## Registering Your Company
 
-1. Sisteme 'Log In' olduktan sonra, aşağıdaki ekrana yönlendirileceksiniz.
+1. After you are logged in, you will be directed to the page below. 
 
 ![omnico5](../img/omnico5.png)
 
-2. Bu sayfadaki boş alanlara önce bilgilerinizi giriniz, isteğinize bağlı olarak, aşağıdaki link'e basarak, kuruluşunuzun logosunu yükleyiniz. 
+2. Enter your company's information to the given area and upload your company's logo if you wish.
 
 ![omnico6](../img/omnico6.png)
 
-3. Gerekli bilgileri girdikten sonra 'Create' butonuna basarak kuruluşunuzun hesabını oluşturunuz. 
+3. After entering the necessary information, click to 'Create' and establish your company's account. 
