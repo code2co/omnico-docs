@@ -1,24 +1,24 @@
 # Signin up to OmniCo &  Register Your Company
 
 ## Signing up to Omnico
-1. First go to app.omnico.io
-2. Click to '14 Days Free Trial'
+1. Go to app.omnico.io
+2. Click to '14 Days Free Trial'.
  
 ![omnico1](../img/omnico1.png)
 
-3. Enter your informtion to the area shown below and click to 'Register'
+3. Enter your informtion into the given area and click to 'Register'
 
 ![omnico2](../img/omnico2.png)
 
-4. Click to 'Confirm My Account' which is in the mail that has been sent to you.
+4. Click to 'Confirm My Account' link which is in the mail that has been sent to you.
 
 ![omnico3](../img/omnico3.png)
 
-5. After confirming your e-mail address, you will be directed to the page below. Here, verify your information and click 'Log in' 
+5. After confirming your e-mail address, you will be directed to the page below. Here, verify your information and click to 'Log in' 
 
 ![omnico4](../img/omnico4.png)
 
-6. Congratulations! Now you are have an Omnico account :) Welcome to the family!
+6. Congratulations! Now you are an Omnico member :) Welcome to the family!
 
 ## Registering Your Company
 
